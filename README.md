@@ -75,7 +75,7 @@ Verified Working January 15th, 2025
 
 This Google Colab Notebook is a ready-to-run sekelton project that handles the deployment of an OpenPose Ubunutu/Linux build and handles the missing file dependancies that seem to be effecting the project. Originally done as a workaround for the model dependancy issue it seems stable/robust enough to let other people use. Currently, it is setup to support Resultant Video and MatLab Vector Data exporting directly to a Google Drive folder, but may include additional feature addition later.
 
-https://github.com/rwlopez98/OpenPose-Colab-Notebook
+[Google Colab Skeleton Project](https://github.com/rwlopez98/OpenPose-Colab-Notebook)
 
 ## Features
 **Main Functionality**:
